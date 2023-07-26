@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfuz&label=Profile%20views&color=0e75b6&style=flat" alt="asfuz" /> </p>
-[![wakatime](https://wakatime.com/badge/user/50dd340e-7727-496a-be1a-a1a264aa9202.svg)](https://wakatime.com/@50dd340e-7727-496a-be1a-a1a264aa9202)
+<a href="https://wakatime.com/@50dd340e-7727-496a-be1a-a1a264aa9202"><img src="https://wakatime.com/badge/user/50dd340e-7727-496a-be1a-a1a264aa9202.svg" alt="Total time coded since Feb 25 2023" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfuz" alt="asfuz" /></a> </p>
 
