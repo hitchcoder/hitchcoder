@@ -3,9 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=hitchcoder&label=Profile%20views&color=0e75b6&style=flat" alt="hitchcoder" />
 <a href="https://wakatime.com/@50dd340e-7727-496a-be1a-a1a264aa9202"><img src="https://wakatime.com/badge/user/50dd340e-7727-496a-be1a-a1a264aa9202.svg" alt="Total time coded since Feb 25 2023" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitchcoder" alt="hitchcoder" /></a> </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitchcoder&show_icons=true&locale=en&layout=compact" alt="hitchcoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitchcoder&show_icons=true&locale=en" alt="hitchcoder" /></p>
