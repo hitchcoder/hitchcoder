@@ -1,4 +1,4 @@
 
 <h1 align="center">Hi there👋</h1>
-<h1>My main profile:<a href="https://github.com/idlerboy">@idlerBoy</h1>
+<h1>My main profile:<a href="https://github.com/idlerboy"> @idlerBoy</h1>
 <img src="https://komarev.com/ghpvc/?username=hitchcoder&label=Profile%20views&color=0e75b6&style=flat" alt="hitchcoder" /><a href="https://wakatime.com/@50dd340e-7727-496a-be1a-a1a264aa9202"><img src="https://wakatime.com/badge/user/50dd340e-7727-496a-be1a-a1a264aa9202.svg" alt="Total time coded since Feb 25 2023" /></a>
